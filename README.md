@@ -1,2 +1,2 @@
 # Application-automate
-welcome page flow
+welcome page scenario
